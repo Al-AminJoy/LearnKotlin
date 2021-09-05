@@ -11,7 +11,4 @@ fun main(args: Array<String>) {
 
     val noName=name?:"No Name";
     println(noName);
-
-
-
 }
